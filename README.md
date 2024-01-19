@@ -9,7 +9,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [Courses & Tutorials](#courses--tutorials)
   - [Articles & Blogs](#articles--blogs)
 - [LLM Ecosystem components](#llm--ecosystem--components)
-  - [LLM Base Models](#llm--base--models)
+  - [LLM Base Models](#llm-base-models)
   - [LLM inference servers](#llm-inference--servers)
   - [LLM Embeddings](#llm--embeddings)
   - [LLM Frameworks](#llm--frameworks)
