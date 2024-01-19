@@ -30,8 +30,8 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 ## Learning Resources
 
 ### Books
-- [Essential Math for AI]([URL](https://www.oreilly.com/library/view/essential-math-for/9781098107628/)).
-- [Generative Deep Learning]([URL](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)).
+- [Essential Math for AI](https://www.oreilly.com/library/view/essential-math-for/9781098107628/).
+- [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/).
 
 ### Courses
 - [Course Title 1](URL) - Provider, short description.
