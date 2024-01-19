@@ -10,22 +10,15 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [Courses](#courses)
   - [Courses & Tutorials](#courses--tutorials)
   - [Articles & Blogs](#articles--blogs)
-- [Research & Papers](#research--papers)
-  - [Foundational Papers](#foundational-papers)
-  - [Recent Papers](#recent-papers)
-- [Tools & Frameworks](#tools--frameworks)
-  - [Libraries](#libraries)
-  - [Frameworks](#frameworks)
-- [Datasets](#datasets)
-- [Applications](#applications)
-  - [Natural Language Understanding](#natural-language-understanding)
-  - [Natural Language Generation](#natural-language-generation)
-  - [Others](#others)
-- [Communities](#communities)
-  - [Forums](#forums)
-  - [Social Media Groups](#social-media-groups)
-- [Conferences & Workshops](#conferences--workshops)
-- [Contributing](#contributing)
+- [LLM Ecosystem components](#llm--ecosystem--components)
+  - [LLM Base Models](#llm--base--models)
+  - [LLM inference servers](#llm-inference--servers)
+  - [LLM Embeddings](#llm--embeddings)
+  - [LLM Frameworks](#llm--frameworks)
+  - [Vector Database](#vector--database)
+  - [Deployment Tools](#deployment--tools)
+  - [ML platform](#ml--platform)
+  
 
 ## Learning Resources
 
@@ -37,39 +30,41 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [Fluent Python](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
 ### Courses & Tutorials
-- [Course Title 1](URL) - Provider, short description.
-- [Course Title 2](URL) - Provider, short description.
 
 ### Articles & Blogs
-- [Article Title 1](URL) - Source, short description.
-- [Blog Post Title 1](URL) - Author, short description.
 
-## Tools & Frameworks
+## LLM Ecosystem components
+### LLM Base Models
+- [Mistral](https://huggingface.co/mistralai)
+- [Falcon](https://huggingface.co/tiiuae/falcon-180B)
+- [Meta-llama](https://huggingface.co/meta-llama)
 
-### Libraries
-- [Library Name 1](URL) - Short description, programming language.
-- [Library Name 2](URL) - Short description, programming language.
+### LLM inference servers
+- [text-generation-inference](https://huggingface.co/docs/text-generation-inference/index)
+- [VLLM](https://docs.vllm.ai/en/latest/)
 
-### Frameworks
-- [Framework Name 1](URL) - Short description, programming language.
-- [Framework Name 2](URL) - Short description, programming language.
+### LLM Embeddings 
+- [Instructor](https://github.com/xlang-ai/instructor-embedding)
+- [text-embeddings-inference](https://huggingface.co/docs/text-embeddings-inference/index)
 
-## Datasets
-- [Dataset Name 1](URL) - Short description, size, format.
-- [Dataset Name 2](URL) - Short description, size, format.
+### LLM Frameworks
+- [Langchain](https://python.langchain.com/)
+- [llamaindex](https://docs.llamaindex.ai/en/stable/)
 
-## Applications
+### Vector Database
+- [ChromaDB](https://docs.trychroma.com/)
+- [Milvus](https://milvus.io/)
+- [Clickhouse](https://clickhouse.com/)
 
-### Natural Language Understanding
-- [Application Name 1](URL) - Short description.
-- [Application Name 2](URL) - Short description.
+### Deployment Tools
+- [Dstack](https://dstack.ai/)
+- [skypilot](https://skypilot.readthedocs.io/)
 
-### Natural Language Generation
-- [Application Name 1](URL) - Short description.
-- [Application Name 2](URL) - Short description.
+### Cloud GPU platform
+- [AWS GPUs instances](https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
+- [GCP GPUs instances](https://cloud.google.com/compute/docs/gpus)
+- [lambdacloud](https://lambdalabs.com/service/gpu-cloud#pricing)
+- [Tensordock](https://marketplace.tensordock.com/deploy)
+- [vast.ai](https://cloud.vast.ai/)
 
-
-### Social Media Groups
-- [Group Name 1](URL) - Platform, short description.
-- [Group Name 2](URL) - Platform, short description.
 
