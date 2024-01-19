@@ -8,7 +8,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [Learning Resources](#learning-resources)
   - [Books](#books)
   - [Courses](#courses)
-  - [Tutorials](#tutorials)
+  - [Courses & Tutorials](#Courses & Tutorials)
   - [Articles & Blogs](#articles--blogs)
 - [Research & Papers](#research--papers)
   - [Foundational Papers](#foundational-papers)
@@ -34,14 +34,11 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/).
 - [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/).
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/).
+- [Fluent Python](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
-### Courses
+### Courses & Tutorials
 - [Course Title 1](URL) - Provider, short description.
 - [Course Title 2](URL) - Provider, short description.
-
-### Tutorials
-- [Tutorial Title 1](URL) - Short description, platform.
-- [Tutorial Title 2](URL) - Short description, platform.
 
 ### Articles & Blogs
 - [Article Title 1](URL) - Source, short description.
