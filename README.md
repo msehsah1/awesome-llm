@@ -1,6 +1,4 @@
-# Awesome LLM
-
-# Awesome Language Models (LLM)
+# Awesome Large Language Models (LLM)
 
 A curated list of awesome resources related to Language Models (LLMs), tools, frameworks, and applications. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
