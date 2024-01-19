@@ -8,7 +8,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [Learning Resources](#learning-resources)
   - [Books](#books)
   - [Courses](#courses)
-  - [Courses & Tutorials](#Courses & Tutorials)
+  - [Courses & Tutorials](#courses--tutorials)
   - [Articles & Blogs](#articles--blogs)
 - [Research & Papers](#research--papers)
   - [Foundational Papers](#foundational-papers)
