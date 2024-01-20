@@ -28,7 +28,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [Fluent Python](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
 ### Courses & Tutorials
-
+(https://github.com/mlabonne/llm-course)
 ### Articles & Blogs
 
 ## LLM Ecosystem components
