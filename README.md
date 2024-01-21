@@ -16,6 +16,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [Vector Database](#vector--database)
   - [Deployment Tools](#deployment--tools)
   - [ML platform](#ml--platform)
+- [Other awesome-list](#other-awesome-list)
   
 
 ## Learning Resources
@@ -67,5 +68,10 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [lambdacloud](https://lambdalabs.com/service/gpu-cloud#pricing)
 - [Tensordock](https://marketplace.tensordock.com/deploy)
 - [vast.ai](https://cloud.vast.ai/)
+
+# Other awesome-list
+- https://github.com/tensorchord/Awesome-LLMOps?tab=readme-ov-file
+- https://github.com/visenger/awesome-mlops
+
 
 
