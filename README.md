@@ -13,6 +13,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [LLM inference servers](#llm-inference--servers)
   - [LLM Embeddings](#llm--embeddings)
   - [LLM Frameworks](#llm--frameworks)
+  - [LLM Agents Frameworks](#llm--agents--frameworks)
   - [Vector Database](#vector--database)
   - [Deployment Tools](#deployment--tools)
   - [ML platform](#ml--platform)
@@ -52,6 +53,9 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 ### LLM Frameworks
 - [Langchain](https://python.langchain.com/)
 - [llamaindex](https://docs.llamaindex.ai/en/stable/)
+
+### LLM Agents Frameworks
+- [crewAI](https://github.com/joaomdmoura/crewAI)
 
 ### Vector Database
 - [ChromaDB](https://docs.trychroma.com/)
