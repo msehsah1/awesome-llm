@@ -3,7 +3,7 @@
 A curated list of awesome resources related to Language Models (LLMs), tools, frameworks, and applications.
 
 ## Contents
-- 
+- [Foundational knowledge](#Foundational knowledge)
 - [Learning Resources](#learning-resources)
   - [Books](#books)
   - [Courses](#courses)
