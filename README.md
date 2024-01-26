@@ -3,6 +3,7 @@
 A curated list of awesome resources related to Language Models (LLMs), tools, frameworks, and applications.
 
 ## Contents
+- 
 - [Learning Resources](#learning-resources)
   - [Books](#books)
   - [Courses](#courses)
@@ -18,7 +19,12 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [Deployment Tools](#deployment--tools)
   - [ML platform](#ml--platform)
 - [Other awesome-list](#other-awesome-list)
-  
+
+## Foundational knowledge
+- [NLP Roadmap](https://www.linkedin.com/pulse/nlp-roadmap-machine-learning-2022-arya-soni/)
+- [AI Roadmap](https://www.linkedin.com/pulse/nlp-roadmap-machine-learning-2022-arya-soni/)
+
+## Learning Resources
 
 ## Learning Resources
 
