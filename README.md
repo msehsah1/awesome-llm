@@ -8,7 +8,8 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [Books](#books)
   - [Courses](#courses)
   - [Courses & Tutorials](#courses--tutorials)
-  - [Articles & Blogs](#articles--blogs)
+  - [Blogs](#blogs)
+  - [Articles](#articles)
 - [LLM Ecosystem components](#llm--ecosystem--components)
   - [LLM Base Models](#llm-base-models)
   - [LLM inference servers](#llm-inference--servers)
@@ -40,9 +41,12 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [llmops course](https://www.deeplearning.ai/short-courses/llmops/)
 - [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 - [Large Language Model Course](https://github.com/mlabonne/llm-course?s=03)
-### Articles & Blogs
+### Blogs
 - https://aman.ai/primers/ai/
 - https://www.philschmid.de/
+
+### Articles
+- [Optimized LLM Inference API For Mistral 7B Using VLLM](https://lightning.ai/lightning-ai/studios/optimized-llm-inference-api-for-mistral-7b-using-vllm?view=public&section=recent&s=03)
 
 ## LLM Ecosystem components
 ### LLM Base Models
