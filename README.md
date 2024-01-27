@@ -39,8 +39,10 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - https://github.com/mlabonne/llm-course
 - [llmops course](https://www.deeplearning.ai/short-courses/llmops/)
 - [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
-- 
+- [Large Language Model Course](https://github.com/mlabonne/llm-course?s=03)
 ### Articles & Blogs
+- https://aman.ai/primers/ai/
+- https://www.philschmid.de/
 
 ## LLM Ecosystem components
 ### LLM Base Models
@@ -51,6 +53,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 ### LLM inference servers
 - [text-generation-inference](https://huggingface.co/docs/text-generation-inference/index)
 - [VLLM](https://docs.vllm.ai/en/latest/)
+- [NVIDIA Triton Inference Server](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html)
 
 ### LLM Embeddings 
 - [Instructor](https://github.com/xlang-ai/instructor-embedding)
