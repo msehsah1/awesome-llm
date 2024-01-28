@@ -13,6 +13,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [LLM Ecosystem components](#llm--ecosystem--components)
   - [LLM Base Models](#llm-base-models)
   - [LLM inference servers](#llm-inference--servers)
+  - [Tokenization Library](#tokenization--library)
   - [LLM Embeddings](#llm--embeddings)
   - [LLM Frameworks](#llm--frameworks)
   - [LLM Agents Frameworks](#llm--agents--frameworks)
@@ -58,6 +59,10 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [text-generation-inference](https://huggingface.co/docs/text-generation-inference/index)
 - [VLLM](https://docs.vllm.ai/en/latest/)
 - [NVIDIA Triton Inference Server](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html)
+
+### Tokenization Library
+  - [tiktoken](https://github.com/openai/tiktoken)
+  - [HuggingFace tokenizers](https://github.com/huggingface/tokenizers)
 
 ### LLM Embeddings 
 - [Instructor](https://github.com/xlang-ai/instructor-embedding)
