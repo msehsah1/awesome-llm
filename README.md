@@ -19,7 +19,9 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [LLM Agents Frameworks](#llm--agents--frameworks)
   - [Vector Database](#vector--database)
   - [Deployment Tools](#deployment--tools)
-  - [ML platform](#ml--platform)
+  - [Cloud GPU platform](#cloud--gpu--platform)
+  - [Monitoring Platform](#monitoring--platform)
+  - [ML Platform](#ml--platform)
 - [Other awesome-list](#other-awesome-list)
 
 ## Foundational knowledge
@@ -90,6 +92,19 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [lambdacloud](https://lambdalabs.com/service/gpu-cloud#pricing)
 - [Tensordock](https://marketplace.tensordock.com/deploy)
 - [vast.ai](https://cloud.vast.ai/)
+- [runpod](https://www.runpod.io/)
+
+### Monitoring Platform
+- [Deepeval](https://github.com/confident-ai/deepeval)
+- [Weights and Biases platform](https://wandb.ai/)
+- [phoenix](https://github.com/Arize-ai/phoenix)
+- [promptlayer](https://github.com/MagnivOrg/prompt-layer-library)
+
+### ML Platform
+- [Google Vertex](https://cloud.google.com/vertex-ai?hl=en)
+- [AWS sagemaker](https://aws.amazon.com/sagemaker/)
+- [HuggingFace](https://huggingface.co/)
+- [Kubeflow](https://www.kubeflow.org/)
 
 # Other awesome-list
 - https://github.com/tensorchord/Awesome-LLMOps?tab=readme-ov-file
