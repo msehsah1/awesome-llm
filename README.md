@@ -99,6 +99,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [Weights and Biases platform](https://wandb.ai/)
 - [phoenix](https://github.com/Arize-ai/phoenix)
 - [promptlayer](https://github.com/MagnivOrg/prompt-layer-library)
+- [Langkit](https://github.com/whylabs/langkit)
 
 ### ML Platform
 - [Google Vertex](https://cloud.google.com/vertex-ai?hl=en)
