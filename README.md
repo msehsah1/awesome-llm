@@ -76,6 +76,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 
 ### LLM Agents Frameworks
 - [crewAI](https://github.com/joaomdmoura/crewAI)
+- [Gorilla](https://github.com/ShishirPatil/gorilla)
 
 ### Vector Database
 - [ChromaDB](https://docs.trychroma.com/)
