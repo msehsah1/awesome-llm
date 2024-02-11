@@ -22,7 +22,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [Cloud GPU platform](#cloud--gpu--platform)
   - [Monitoring Platform](#monitoring--platform)
   - [ML Platform](#ml--platform)
-  - [Prompt Engineering](#prompt--engineering)
+  - [Prompt Engineering](#prompt-engineering)
   - [RAG](#rag)
 - [Other awesome-list](#other-awesome-list)
 
@@ -120,6 +120,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 # Other awesome-list
 - https://github.com/tensorchord/Awesome-LLMOps?tab=readme-ov-file
 - https://github.com/visenger/awesome-mlops
+- https://github.com/ashishpatel26/LLM-Finetuning
 
 
 
