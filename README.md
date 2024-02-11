@@ -22,6 +22,8 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [Cloud GPU platform](#cloud--gpu--platform)
   - [Monitoring Platform](#monitoring--platform)
   - [ML Platform](#ml--platform)
+  - [Prompt Engineering](#prompt--engineering)
+  - [RAG](#rag)
 - [Other awesome-list](#other-awesome-list)
 
 ## Foundational knowledge
@@ -107,6 +109,13 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [AWS sagemaker](https://aws.amazon.com/sagemaker/)
 - [HuggingFace](https://huggingface.co/)
 - [Kubeflow](https://www.kubeflow.org/)
+
+### Prompt Engineering
+- https://aman.ai/primers/ai/prompt-engineering/
+- https://github.com/dair-ai/Prompt-Engineering-Guide
+
+### RAG 
+- https://aman.ai/primers/ai/RAG/
 
 # Other awesome-list
 - https://github.com/tensorchord/Awesome-LLMOps?tab=readme-ov-file
