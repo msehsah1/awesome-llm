@@ -75,6 +75,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 ### LLM Frameworks
 - [Langchain](https://python.langchain.com/)
 - [llamaindex](https://docs.llamaindex.ai/en/stable/)
+- [llmware](https://github.com/llmware-ai/llmware)
 
 ### LLM Agents Frameworks
 - [crewAI](https://github.com/joaomdmoura/crewAI)
