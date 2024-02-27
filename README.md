@@ -24,6 +24,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
   - [ML Platform](#ml--platform)
   - [Prompt Engineering](#prompt-engineering)
   - [RAG](#rag)
+  - [FineTuning Framework](#finetuning-framework)
 - [Other awesome-list](#other-awesome-list)
 
 ## Foundational knowledge
@@ -117,6 +118,11 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 
 ### RAG 
 - https://aman.ai/primers/ai/RAG/
+
+### FineTuning Framework
+- https://github.com/ludwig-ai/ludwig
+- https://huggingface.co/docs/transformers/index
+- https://lamini-ai.github.io/
 
 # Other awesome-list
 - https://github.com/tensorchord/Awesome-LLMOps?tab=readme-ov-file
