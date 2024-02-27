@@ -111,6 +111,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [AWS sagemaker](https://aws.amazon.com/sagemaker/)
 - [HuggingFace](https://huggingface.co/)
 - [Kubeflow](https://www.kubeflow.org/)
+- https://www.zenml.io/
 
 ### Prompt Engineering
 - https://aman.ai/primers/ai/prompt-engineering/
