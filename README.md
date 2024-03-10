@@ -90,6 +90,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 ### Deployment Tools
 - [Dstack](https://dstack.ai/)
 - [skypilot](https://skypilot.readthedocs.io/)
+- [bentoML](https://www.bentoml.com/)
 
 ### Cloud GPU platform
 - [AWS GPUs instances](https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
