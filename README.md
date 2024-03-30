@@ -86,6 +86,7 @@ A curated list of awesome resources related to Language Models (LLMs), tools, fr
 - [ChromaDB](https://docs.trychroma.com/)
 - [Milvus](https://milvus.io/)
 - [Clickhouse](https://clickhouse.com/)
+- [lancedb](https://lancedb.com/)
 
 ### Deployment Tools
 - [Dstack](https://dstack.ai/)
